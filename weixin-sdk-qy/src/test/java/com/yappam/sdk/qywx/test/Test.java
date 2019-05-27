@@ -15,7 +15,7 @@ public class Test {
     public static void main(String[] args) {
         
         //QyWx配置
-        WxQyConfig config = new WxQyConfig("wxccc07f3096d4fd05", "PJBezEZLjeXmF1mK4llbP48YDJ9UYeORb_kBN0jJkEM");
+        WxQyConfig config = new WxQyConfig("XXXXXXX", "XXXXXXXXXXXXXXXXXXXXXXXXX");
         config.setTokenStore(new RedisTokenStore() {
             @Override
             public RedisConfig initConfig() {
