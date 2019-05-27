@@ -3,7 +3,7 @@
 
 调用示例
 
--- 初始化微信配置、设置token存储方式
+初始化微信配置、设置token存储方式、创建调用API
 ```
  
         WxQyConfig config = new WxQyConfig("XXXXXXXXXXXXX", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
